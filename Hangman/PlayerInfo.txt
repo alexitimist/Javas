@@ -1,0 +1,9 @@
+Mikolaj,25,3,527
+Wojtek,3,25,34
+Kasztan,1,0,78
+Toja,1,0,30
+FinalTest,1,0,24
+Krzyhu,1,0,1
+OrkaGuesser,1,0,8
+no,2,2,65
+Robert,1,0,42
